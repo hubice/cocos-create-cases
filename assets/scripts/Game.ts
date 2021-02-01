@@ -14,7 +14,7 @@ export default class Game extends cc.Component {
     update() {
         Global.frame++
         if (Global.frame % 30 == 0) {
-            console.log(Global.input.direction)
+            // console.log(Global.input.direction)
         }
     }
 }
