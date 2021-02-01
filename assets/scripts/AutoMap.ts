@@ -1,5 +1,5 @@
 const {ccclass, property} = cc._decorator;
 
 @ccclass
-export default class Hero extends cc.Component {
+export default class AutoMap extends cc.Component {
 }
