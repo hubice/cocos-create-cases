@@ -24,4 +24,4 @@
 
 ### 14.简单的剧情系统 ×
 
-[快照](https://github.com/hubice/cocos-create-cases/blob/master/snapshoot.png)
+![图片快照](https://github.com/hubice/cocos-create-cases/blob/master/snapshoot.png)
